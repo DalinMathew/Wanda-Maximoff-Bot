@@ -129,12 +129,11 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/VCPlayerBot')
-        ],
+            InlineKeyboardButton("🔸𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🔸", url="https://t.me/jointhisdiscussion")
+        ]
         [
-            InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help_main'),
-            InlineKeyboardButton('🗑 Close', callback_data='close'),
+            InlineKeyboardButton('👨🏼‍🦯 𝗛𝗲𝗹𝗽', callback_data='help_main'),
+            InlineKeyboardButton('🗑 𝗖𝗹𝗼𝘀𝗲', callback_data='close'),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -188,11 +187,9 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Repository', url='https://github.com/subinps/VCPlayerBot'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),     
+            InlineKeyboardButton("🔸𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🔸", url="https://t.me/jointhisdiscussion")
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
