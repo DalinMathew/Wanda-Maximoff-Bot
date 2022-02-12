@@ -1,10 +1,10 @@
 # VCPlayerBot
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/Wanda-Maximoff-Bot?color=blue&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/Wanda-Maximoff-Bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Wanda-Maximoff-Bot)
-![GitHub contributors](https://img.shields.io/github/contributors/Wanda-Maximoff-Bot?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/Wanda-Maximoff-Bot?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/DalinMathew/Wanda-Maximoff-Bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/DalinMathew/Wanda-Maximoff-Bot)
+![GitHub contributors](https://img.shields.io/github/contributors/DalinMathew/Wanda-Maximoff-Bot?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/DalinMathew/Wanda-Maximoff-Bot?style=flat)
 
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
