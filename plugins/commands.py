@@ -129,11 +129,11 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton("🔸𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🔸", url="https://t.me/jointhisdiscussion")
-        ]
+            InlineKeyboardButton('🔸𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🔸', url='https://t.me/jointhisdiscussion')
+        ],
         [
             InlineKeyboardButton('👨🏼‍🦯 𝗛𝗲𝗹𝗽', callback_data='help_main'),
-            InlineKeyboardButton('🗑 𝗖𝗹𝗼𝘀𝗲', callback_data='close'),
+            InlineKeyboardButton('🗑 𝗖𝗹𝗼𝘀𝗲', callback_data='close')
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
