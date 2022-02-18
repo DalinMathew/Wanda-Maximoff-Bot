@@ -1,4 +1,4 @@
-# VCPlayerBot
+# Wanda-Maximoff-Bot
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/Wanda-Maximoff-Bot?color=blue&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/DalinMathew/Wanda-Maximoff-Bot)
@@ -60,14 +60,14 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=RGFsaW5NYXRoZXcvV2FuZGEtTWF4aW1vZmYtQm90IG1haW4)
 
 ## Deploy to Railway
-<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/DalinMathew/Wanda-Maximoff-Bot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
  
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/VCPlayerBot
-cd VCPlayerBot
+git clone https://github.com/DalinMathew/Wanda-Maximoff-Bot
+cd Wanda-Maximoff-Bot
 pip3 install -r requirements.txt
 # install node js
 sudo bash install_node.sh
