@@ -1,7 +1,7 @@
 {
-    "name": "VCPlayerBot",
+    "name": "Wanda Maximoff Bot",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/DalinMathew/Wanda-Maximoff-Bot",
     "stack": "container",
     "keywords": [
       "telegram",
